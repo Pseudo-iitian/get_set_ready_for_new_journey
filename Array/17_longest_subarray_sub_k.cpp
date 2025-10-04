@@ -20,6 +20,7 @@ int main() {
     cin.tie(nullptr);            // untie cin from cout for performance
 
     // your code starts here
+    
 
     return 0;
 }
